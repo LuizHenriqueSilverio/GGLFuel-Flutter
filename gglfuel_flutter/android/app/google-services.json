@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227012792994",
+    "project_id": "gglfuel",
+    "storage_bucket": "gglfuel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227012792994:android:de601e3e3b9fcb7937bdfb",
+        "android_client_info": {
+          "package_name": "br.edu.ifsuldeminas.mch.GGL"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjucG493lG-LWeJM0_nvRPeNmfftXaOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227012792994:android:99a95dac87ec724937bdfb",
+        "android_client_info": {
+          "package_name": "com.example.gglfuel_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjucG493lG-LWeJM0_nvRPeNmfftXaOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
